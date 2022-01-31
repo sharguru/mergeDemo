@@ -1,3 +1,8 @@
 class Abc {
-//ABC java
+
+public void main (String args[]){
+
+//print
+}
+
 }
