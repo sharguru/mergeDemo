@@ -2,7 +2,14 @@ class Abc {
 
 public void main (String args[]){
 
-//print
+
+	class Login(){
+		console.log("login");
+		}
+
+	}
+class Register (){
+	console.log("register");
 }
 
 }
