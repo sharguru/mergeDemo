@@ -1,3 +1,3 @@
 class Abc {
-//ABC java
+//register impolementation
 }
