@@ -1,3 +1,5 @@
 class Abc {
-//register impolementation
+	class register(){
+		System.out.println("register feature");
+}
 }
